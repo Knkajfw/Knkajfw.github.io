@@ -1,1 +1,0 @@
-var socketServerAddress = "https://paste-like-doinb.herokuapp.com";
